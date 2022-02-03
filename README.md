@@ -9,7 +9,6 @@
 </div>
   <a href="https://www.linkedin.com/in/natanael-santos-5b455148/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- <br/><br/>
   ![Snake animation](https://github.com/natanaelsantosbr/natanaelsantosbr/blob/output/github-contribution-grid-snake.svg)
  
 </div>
